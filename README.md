@@ -139,12 +139,12 @@ public class AppTest {
 
 Una vez creados los tests realizamos un segundo commit para guardar el trabajo realizado.
 
-![Segundo commit](/Practica5/images/tagtests.PNG)
+![Segundo commit](images/tagtests.PNG)
 
 Ahora comprobamos si el código pasa los tests.
 
-![test fallido](/Practica5/images/testfallido.png)
+![test fallido](images/testfallido.png)
 
 Utilizamos **jacoco** para ver el porcentage de código que cubren nuestros tests.
 
-![jacoco](/Practica5/images/jacoco.png)
+![jacoco](images/jacoco.png)
