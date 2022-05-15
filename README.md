@@ -79,7 +79,7 @@ public class Calculadora implements ICalculadora {
 
 Una vez creada la clase realizamos el primer commit a GitHub
 
-![primer commit](/Practica5/images/commit.png)
+![primer commit](images/commit.png)
 
 Le añadimos tag al commit
 
