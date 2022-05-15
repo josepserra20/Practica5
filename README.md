@@ -141,7 +141,7 @@ Una vez creados los tests realizamos un segundo commit para guardar el trabajo r
 
 ![Segundo commit](images/tagtests.PNG)
 
-Ahora comprobamos si el código pasa los tests.
+Ahora comprobamos si el código pasa los tests. Realizamos un test que falle a propósito para comprobar el funcionamiento correcto de los tests.
 
 ![test fallido](images/testfallido.png)
 
