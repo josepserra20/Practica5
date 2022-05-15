@@ -83,7 +83,7 @@ Una vez creada la clase realizamos el primer commit a GitHub
 
 Le añadimos tag al commit
 
-![tag](/Practica5/images/tag.png)
+![tag](images/tag.png)
 
 Tras realizar el commit creamos los tests unitarios en JUnit. Al hacer click derecho en la clase nos dará la opción  de crear un test
 
